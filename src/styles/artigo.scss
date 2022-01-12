@@ -1,0 +1,21 @@
+.artigo{
+    width: 100%;
+    .artigo-content{
+        width: 85%;
+        margin: 0 auto;
+        .title{
+            padding-top: 35px;
+            padding-bottom: 35px;
+        }
+        .desc{
+            font-size: 1.1em;
+        }
+        .author{
+            padding-top: 35px;
+            padding-bottom: 35px;
+            span{
+                font-weight: 600;
+            }
+        }
+    }
+}
